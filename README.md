@@ -1,3 +1,10 @@
+# Aplikasi Flutter Tema 🎨
+
+## Screenshot
+![Tampilan Aplikasi](assets/screenshot/mode_Hitam.png)
+![Tampilan Aplikasi](assets/screenshot/mode_Putih.png)
+
+
 # pertemuan5_theme
 
 A new Flutter project.
