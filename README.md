@@ -2,7 +2,7 @@
 
 ## Screenshot
 ![Tampilan Aplikasi](aset/screenshot/mode_Hitam.png)
-![Tampilan Aplikasi](aset/screenshot/mode_Putih.png)
+![Tampilan Aplikasi](aset/screenshot/Mode_putih.png)
 
 
 # pertemuan5_theme
